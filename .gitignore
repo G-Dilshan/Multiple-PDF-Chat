@@ -1,0 +1,7 @@
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+faiss_index/
+.faiss_index/
